@@ -1,3 +1,5 @@
+Developed an interactive and user-friendly nutrition tracking system for women’s health using the MERN stack. Designed a modern UI that provides phase-specific dietary recommendations (Pregnancy, Menstrual Cycle, Normal) based on user data (age, height, weight). Integrated APIs to suggest meals with health benefits, ensuring seamless navigation and accessibility.
+
 To Run the Project 
 
 Backend:
